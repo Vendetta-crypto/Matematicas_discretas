@@ -1,4 +1,3 @@
-#Hernandez Hernandez Erik Jose
 from re import A
 import string
 digit2Value = {0: '0', 1: '1', 2: '2', 3: '3', 4: '4',

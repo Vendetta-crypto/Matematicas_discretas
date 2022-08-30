@@ -52,6 +52,5 @@ def decimalToBasEleven(decimal):
         decimal = decimal // 11
     return eleven
 
-
 for i in range(0,45):
     print(f"Decimal {i}\tBinario {decimalToBinario(i)}\tOctal {decimalTOctal(i)}\tHexadecimal {decimalToHexadecimal(i)}\tQuintario {decimalToQuintario(i)}\tSenario {decimalToSenario(i)}\tBase-11 {decimalToBasEleven(i)}")
